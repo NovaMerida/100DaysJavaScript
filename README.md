@@ -1,3 +1,3 @@
 # 100DaysJavaScript
 
-## Just doing some code
+## 100 Day's Challenge lets see what I will create
